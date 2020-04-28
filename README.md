@@ -8,7 +8,7 @@ One of the key things left out of the base ark egg is that ark uses multiple por
 
 The game port, Raw UDP port and the Query port. 
 
-Your primary allocated port will be the game port and you will define the Query port in the given varible location.
+Your primary allocated port will be the game port and you will define the Query port in the given variable location.
 
 An example is shown below.
 
